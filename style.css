@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: blueviolet;
+}
+.my-wrap{
+    height: 100vh;
+    position: relative;
+}
+.main-content{
+    position: absolute;
+    top: 35%;
+   
+}
+.e-input{
+    border: 1px solid black;
+}
